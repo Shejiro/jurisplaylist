@@ -147,17 +147,13 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="All Channels" , Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
-
 #EXTINF:-1 tvg-id="39" tvg-name="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="All Channels" , Discovery HD
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="All Channels" , Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
-
 #EXTINF:-1 tvg-id="Foodnetwork.Hd.ph" tvg-name="Foodnetwork.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="All Channels" , TLC
-https://dpl
+https://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="All Channels" , abscbnentertainment TEST
 https://jeromelaliag.link/iptv/abscbnentertainment.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="All Channels" , gmanetwork TEST
 https://jeromelaliag.link/iptv/gmanetwork.php
