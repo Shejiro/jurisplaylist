@@ -5,8 +5,6 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/iQnLy7q.png" group-title="JURIS : LOCAL TV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/iQnLy7q.png" group-title="JURIS : LOCAL TV",Al Jazeera 2
-https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/524c0289-a2ff-444a-87c5-badbc7284dcf/2.m3u8
 #EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="JURIS : LOCAL TV", ANIMAX
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567695.m3u8
 #EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="JURIS : LOCAL TV", ANIMAX HD
