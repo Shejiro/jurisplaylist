@@ -13,6 +13,8 @@ http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567695.m3u8
 http://108.181.132.217:8070/c6c8f050/3105121e/144838
 #EXTINF: -1 tvg-id="AnimaxPhilippines.ph" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="JURIS : LOCAL TV", ANIMAX JAPAN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="JURIS : LOCAL TV" , ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF: -1 tvg-id="ArirangTV.kr" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="JURIS : LOCAL TV", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF: -1 tvg-id="animalplanet.us" tvg-logo="https://tlgrm.re/images/animal-planet-us.png" group-title="JURIS : LOCAL TV", Animal Planet
@@ -192,128 +194,4 @@ https://inst1.ignores.top/js/wwe-network/1/playlist.m3u8
 #EXTINF: -1 tvg-id="TeleRadyo.ph" tvg-name="TeleRadyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/512px-TeleRadyo_Logo.svg.png" group-title="JURIS : LOCAL TV", TELERADYO
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="POPUK.uk" tvg-logo="https://imgur.com/Uoj2nNp.png" group-title="JURIS : LOCAL TV",POP
-https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF: -1 tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_92,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png" group-title="JURIS : LOCAL TV", Hollywood Movie Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSEast.us" tvg-logo="https://imgur.com/YgrHAFu.png" group-title="JURIS : LOCAL TV",PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF: -1 tvg-logo="vg-logo=https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="JURIS : LOCAL TV", rakuten tv
-https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/32045cf9-3031-4b1e-bb31-dc1447274b2e.png" group-title="JURIS : LOCAL TV" , Rakuten comedy
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/0ZZ2hCL.png" group-title="JURIS : LOCAL TV",Lotus Macau
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF: -1 tvg-id="HallmarkMoviesMysteries.us" tvg-logo="https://tlgrm.re/images/hallmark-movies-and-mysteries-us.png" group-title="JURIS : LOCAL TV", Hallmark Movies & Mysteries 
-https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8
-#EXTINF: -1 tvg-logo="vg-logo=https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="JURIS : LOCAL TV", MY TIME
-https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/qDoqaeW.png" group-title="JURIS : LOCAL TV",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="JURIS : LOCAL TV" , Asian Crush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="JURIS : LOCAL TV" ,asian crush hd
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF: -1 tvg-id="amc.us" tvg-logo="https://www.lyngsat.com//logo/tv/aa/amc-us.png" group-title="JURIS : LOCAL TV", AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/216bee0d-1060-4ea2-b595-e6ebabde2d1c/2.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="JURIS : LOCAL TV", PBA RUSH 
-http://abcnew.site:8880/DYJ14M2353/4745643534/50127
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xYdJrZo.png" group-title="JURIS : LOCAL TV", ONE SPORTS PLUS
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Pqln5hJ.png" group-title="JURIS : LOCAL TV", x fm
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/radyo5_qp_1.m3u8
-EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/Kyf5KYg.png" group-title="JURIS : LOCAL TV", INC TV 
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF: -1 tvg-id="Nick.Jr..my" tvg-logo="https://i.imgur.com/qXy3RMn.png" group-title="JURIS : LOCAL TV", Nick Jr
-http://fortv.cc:8080/38871863/38871863/9807
-#EXTINF:-1 tvg-id="NicktoonsUK.uk" tvg-logo="https://imgur.com/kwy4OTl.png" group-title="JURIS : LOCAL TV",Nicktoons
-http://fortv.cc:8080/38871863/38871863/36
-#EXTINF: -1 tvg-id="Nickelodeon.HD.my" tvg-logo="https://i.imgur.com/2h7jwVu.png" group-title="JURIS : LOCAL TV", Nickelodeon
-http://fortv.cc:8080/38871863/38871863/47349
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://imgur.com/AMcUJWw.png" group-title="JURIS : LOCAL TV",Disney XD
-http://fortv.cc:8080/38871863/38871863/57420
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://imgur.com/YeKOSsm.png" group-title="JURIS : LOCAL TV",DISNEY CHANNEL
-http://fortv.cc:8080/38871863/38871863/2206
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://imgur.com/YeKOSsm.png" group-title="JURIS : LOCAL TV",DISNEY 2
-http://fortv.cc:8080/38871863/38871863/75621
-#EXTINF: -1 tvg-id=.Junior.Canada.HD.(DISJRH).ca" tvg-logo="https://imgur.com/t9lg3Ze.png" group-title="JURIS : LOCAL TV", Disney Jr
-http://fortv.cc:8080/38871863/38871863/57349
-#EXTINF: -1 tvg-id=.Junior.Canada.HD.(DISJRH).ca" tvg-logo="https://imgur.com/t9lg3Ze.png" group-title="JURIS : LOCAL TV", Disney Jr 2
-http://fortv.cc:8080/38871863/38871863/41960
-#EXTINF: -1 tvg-logo="vg-logo=https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="JURIS : LOCAL TV", nhra tv
-https://lnc-nhra.tubi.video/nh.m3u8
-#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ZooMoo.png" group-title="JURIS : LOCAL TV", ZOO MOO
-https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" group-title="JURIS : LOCAL TV" , Paramount Network
-http://170.254.18.106/PARAMOUNT/index.m3u8
-#EXTINF: -1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="JURIS : LOCAL TV", DreamWorks
-http://abcnew.site:8880/live/D12m2496/22936653/60923.m3u8
-#EXTINF: -1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="JURIS : LOCAL TV", DreamWorks PH
-https://epg.pw/stream/d989ed993980c51e8b0f36ac1b09e851cdba7c58fb3eae1d653dc91c49df7620.ctv
-#EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://imgur.com/uDSwW1K.png" group-title="JURIS : LOCAL TV", ESPN
-http://1tv41.icu:8080/live/MrKJames/115N5Yfkc9/17707.m3u8
-#EXTINF: -1 tvg-logo="vg-logo=https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="JURIS : LOCAL TV", K MOVIES
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
-#EXTINF: -1 tvg-logo="vg-logo=https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="JURIS : LOCAL TV", CINEBOX SCIENCE FICTION 
-http://1tv41.icu:8080/live/MrKJames/115N5Yfkc9/119434.m3u8
-#EXTINF: -1 tvg-logo="vg-logo=https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="JURIS : LOCAL TV", CINEBOX BLOCKBUSTER 
-http://1tv41.icu:8080/live/MrKJames/115N5Yfkc9/119421.m3u8
-#EXTINF: -1 tvg-logo="vg-logo=https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="JURIS : LOCAL TV", CINEBOX HITS
-http://1tv41.icu:8080/live/MrKJames/115N5Yfkc9/119436.m3u8
-#EXTINF: -1 tvg-logo="vg-logo=https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="JURIS : LOCAL TV", CINEBOX THRILLER 
-http://1tv41.icu:8080/live/MrKJames/115N5Yfkc9/119437.m3u8
-#EXTINF:-1 tvg-id="star television broad.station" tvg-logo="https://i.ibb.co/HXV8bp8/ffa5768b-20e4-4fa2-9a18-5b96e9e6e90a.jpg" group-title="JURIS : LOCAL TV",star television broad.station
-https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
-#EXTINF:-1 tvg-id="Dream TV Philippines" tvg-logo="https://i.ibb.co/dPKzXHq/dreamtv-ph.jpg" group-title="JURIS : LOCAL TV",Dream TV Philippines
-https://ssh101-fl.bozztv.com/ssh101/dreamtvph/index.m3u8
-#EXTINF:-1 tvg-id="Dreamstar TV" tvg-logo="https://dreamstarteleradio.online/logo1.png?fbclid=IwAR0TDaGy-C68_jfFrohLNrp8vz6aC8qRw1giK3EjzlbuVv4LsKiX5IN67u4" group-title="JURIS : LOCAL TV",Dreamstar tv
-https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/Kyf5KYg.png" group-title="JURIS : LOCAL TV", INC TV
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF: -1 tvg-id="NHK.World.Japan.in" tvg-logo="https://imgur.com/37zkBFo.png" group-title="JURIS : LOCAL TV", NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF: -1 tvg-logo="https://logo.iptveditor.com/bbcworldnews.png" group-title="JURIS : LOCAL TV", BBC WORLD NEWS
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="JURIS : LOCAL TV",CGTN NEWS
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="JURIS : LOCAL TV" , Wild Planet
-https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="JURIS : LOCAL TV" , MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/360p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Ls57t52j/TV5-Monde-Style-2023.png" group-title="JURIS : LOCAL TV" , TV5 MONDE Style
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="JURIS : LOCAL TV",TV5 MONDE ASIE
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF: -1 tvg-id="THRILL.ph" tvg-chno="73" tvg-logo="https://i.imgur.com/OnMwA42.png" group-title="JURIS : LOCAL TV", Thrill
-https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="JURIS : LOCAL TV" , American Pickers
-https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="JURIS : LOCAL TV" , America's Got Talent
-https://dhkq1p9audihq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="JURIS : LOCAL TV" , American Idol
-https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="JURIS : LOCAL TV" , AFV
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_orig.png" group-title="JURIS : LOCAL TV" , Action!!!
-https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" group-title="JURIS : LOCAL TV" , 24 Hour Free Movies
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="JURIS : LOCAL TV",Pluto TV Fantastic
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="JURIS : LOCAL TV",Pluto TV Romance
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="JURIS : LOCAL TV",Pluto TV Crime Movies
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisi
-#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="JURIS : LOCAL TV",90s Throwback
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Flicks of Fury" tvg-logo="https://i.imgur.com/yhyzBfb.png" group-title="JURIS : LOCAL TV",Flicks of Fury
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="The Asylum" tvg-logo="https://i.imgur.com/rOxQfdG.png" group-title="JURIS : LOCAL TV",The Asylum
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Film Detective" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="JURIS : LOCAL TV",Film Detective
-#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="JURIS : LOCAL TV",Paramount Movie Channel
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Westerns" tvg-logo="https://i.imgur.com/79R7m0b.png" group-title="JURIS : LOCAL TV",Pluto TV Westerns
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="JURIS : LOCAL TV",Classic Movies
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceMo
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+https://live-sonybebanjo.simplest
