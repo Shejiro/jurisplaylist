@@ -89,6 +89,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-id="France.24.in" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="JURIS : LOCAL TV",France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.rappler.com/tachyon/2022/08/ptv-logo.png" group-title="JURIS : LOCAL TV", PTV
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 #EXTINF: -1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="JURIS : LOCAL TV", Kapamilya Channel 
 http://jeromelaliag.link/iptv/abscbnentertainment.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="JURIS : LOCAL TV" , GTV
@@ -115,6 +117,8 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF: -1 tvg-id="LOVE.NATURE.HD.ph" tvg-logo="https://i.imgur.com/NtZS7bN.png" group-title="JURIS : LOCAL TV", Love Nature HD 
 https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_1.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="49" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="JURIS : LOCAL TV" , AXN
+http://170.254.18.106/AXN/index.m3u8
 #EXTINF: -1 tvg-id="HBO.HD.my" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="JURIS : LOCAL TV", HBO
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="JURIS : LOCAL TV",HBO SIGNATURE
